@@ -8,6 +8,6 @@ public class Zad2 {
 
         System.out.println("Moja liczba " + liczba1);
 
-
+    //komentarz
     }
 }
