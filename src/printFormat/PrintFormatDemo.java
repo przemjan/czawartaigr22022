@@ -17,7 +17,7 @@ public class PrintFormatDemo {
         System.out.printf("Średnia temperatura %10f stopni C \n", averageTemp);
 
         //precyzja (zaokraglanie)
-        System.out.printf("Średnia temperatura %10.2f stopni C \n", averageTemp);
+        System.out.printf("Średnia temperatura %.2f stopni C \n", averageTemp);
 
         //wizaualne oddzielanie
         System.out.printf("Wiek: %,d lat\n",age);

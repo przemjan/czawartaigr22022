@@ -6,7 +6,7 @@ public class StringiDemo {
 
         int dlugosc = name.length();
 
-        char inicjal = name.charAt(0);
+        char inicjal = name.charAt(4);
 
         String duze, male;
 

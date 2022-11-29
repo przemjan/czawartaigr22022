@@ -45,6 +45,7 @@ public class Zmienne {
 
 
 
+
         //  https://github.com/przemjan/czawartaigr22022
         // ubuckp
 
