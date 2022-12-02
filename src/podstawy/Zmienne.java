@@ -51,6 +51,9 @@ public class Zmienne {
 
         // 5,6,8,13,21
         // Tworzenie i testowanie programów i aplikacji
+        //petleWstep 1,2, 12,13,14
+
+        //zadania7:  2,3, 5,6, 8, 17,18, 21, 22, 23
 
     }
 }
