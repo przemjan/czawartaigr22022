@@ -53,6 +53,11 @@ public class Zmienne {
         // Tworzenie i testowanie programów i aplikacji
         //petleWstep 1,2, 12,13,14
 
+        // Przepisy bezpieczeństwa i higieny pracy
+        // oraz ochrony przeciwpożarowej.
+        // Regulamin i zasad oceniania w ramach
+        // praktyki zawodowej. Wymagania edukacyjne.
+
         //zadania7:  2,3, 5,6, 8, 17,18, 21, 22, 23
 
     }
